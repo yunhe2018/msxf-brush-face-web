@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>首页@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="104.014079%" y1="111.215655%" x2="35.6608073%" y2="-15.4638986%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.8913354%" y1="0%" x2="15.1390005%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.513473732" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M8.28581265,1.37501947 L13.7858127,5.20668613 C13.9200101,5.30017703 14,5.45339077 14,5.61694353 L14,14 C14,14.2761424 13.7761424,14.5 13.5,14.5 L9.50036621,14.5 C9.22422384,14.5 9.00036621,14.2761424 9.00036621,14 L9.00036621,10.6021729 L6.9864502,10.6021729 L6.9864502,14 C6.9864502,14.2761424 6.76259257,14.5 6.4864502,14.5 L2.5,14.5 C2.22385763,14.5 2,14.2761424 2,14 L2,5.61694353 C2,5.45339077 2.07998989,5.30017703 2.21418735,5.20668613 L7.71418735,1.37501947 C7.88594353,1.25536266 8.11405647,1.25536266 8.28581265,1.37501947 Z" id="路径" fill="url(#linearGradient-1)"></path>
+            <path d="M2,13.5577015 L2,5.61694353 C2,5.45339077 2.07998989,5.30017703 2.21418735,5.20668613 L7.71418735,1.37501947 C7.88594353,1.25536266 8.11405647,1.25536266 8.28581265,1.37501947 L11.71789,3.76603332 C9.41839974,7.8380906 6.05279571,11.2282874 2,13.5577015 Z" id="路径" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

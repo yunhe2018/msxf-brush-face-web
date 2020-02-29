@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>记录管理@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="106.711238%" y1="142.918983%" x2="-20.8653846%" y2="-46.6618465%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="记录管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M2.1,1.43969727 L14.1,1.43969727 C14.3761424,1.43969727 14.6,1.66355489 14.6,1.93969727 L14.6,13.9396973 C14.6,14.2158396 14.3761424,14.4396973 14.1,14.4396973 L2.1,14.4396973 C1.82385763,14.4396973 1.6,14.2158396 1.6,13.9396973 L1.6,1.93969727 C1.6,1.66355489 1.82385763,1.43969727 2.1,1.43969727 Z M4,5 L4,6 L12,6 L12,5 L4,5 Z M4,7.49279785 L4,8.49279785 L12,8.49279785 L12,7.49279785 L4,7.49279785 Z M4,10 L4,11 L9,11 L9,10 L4,10 Z" id="合并形状" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
+</svg>

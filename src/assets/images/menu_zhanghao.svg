@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>账号管理@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="104.014079%" y1="111.215655%" x2="35.6608073%" y2="-15.4638986%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#C6C6C6" stop-opacity="0.129387455" offset="0%"></stop>
+            <stop stop-color="#545764" offset="49.949428%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="账号管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <g id="分组-4" transform="translate(1.000000, 0.000000)">
+                <path d="M7,16 L0,12 L0,4 L7,0 L14,4 L14,12 L7,16 Z M11.6,10.6072259 L11.6,5.39277409 L7,2.76420266 L2.4,5.39277409 L2.4,10.6072259 L7,13.2357973 L11.6,10.6072259 Z" id="合并形状" fill="url(#linearGradient-1)"></path>
+                <path d="M2.41867732,10.6178987 L0,12 L0,4 L2.41867732,5.38210133 L2.4,5.39277409 L2.4,10.6072259 L2.41867732,10.6178987 Z M11.5813227,5.38210133 L14,4 L14,12 L11.5813227,10.6178987 L11.6,10.6072259 L11.6,5.39277409 L11.5813227,5.38210133 Z" id="合并形状" fill="url(#linearGradient-2)"></path>
+                <polygon id="路径" fill="url(#linearGradient-1)" points="9.6 9.44658084 9.6 6.55341916 7 5.06770487 4.4 6.55341916 4.4 9.44658084 7 10.9322951"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_shijian_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="会议签到" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会议室预约1030" transform="translate(-588.000000, -456.000000)">
+            <g id="Group-Copy" transform="translate(232.000000, 278.000000)">
+                <g id="Group-2-Copy-3" transform="translate(216.000000, 162.000000)">
+                    <g id="时间段-可预约">
+                        <g id="icon_shijian_white" transform="translate(140.000000, 16.000000)">
+                            <circle id="椭圆形" stroke="#FFFFFF" cx="6" cy="6" r="5.5"></circle>
+                            <path d="M8.6031811,7.59429234 L6.00799561,6.26516724 L6.00799561,3.5039978 C6.00799561,3.2256475 5.7823481,3 5.5039978,3 L5.5039978,3 C5.2256475,3 5,3.2256475 5,3.5039978 L5,6.64321899 C5,6.77026367 5.02718099,6.86043294 5.08154297,6.91372681 C5.13590495,6.96702067 5.23138428,7.02567546 5.36798096,7.08969116 L8.07721197,8.45132588 C8.33030106,8.57852614 8.63863846,8.49080766 8.78687286,8.24943542 L8.78687286,8.24943542 C8.9208434,8.03128926 8.85260557,7.74584227 8.63445941,7.61187173 C8.62426409,7.60561046 8.61383017,7.59974627 8.6031811,7.59429234 Z" id="路径" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

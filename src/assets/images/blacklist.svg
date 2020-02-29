@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>黄名单记录图标@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="4.42914595%" x2="27.2971067%" y2="91.7591008%" id="linearGradient-1">
+            <stop stop-color="#DDE8FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#8EB3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#D0DFFF" offset="0%"></stop>
+            <stop stop-color="#729BF3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.6728516%" y1="83.6082945%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#D0DFFF" offset="0%"></stop>
+            <stop stop-color="#729BF3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="135.66509%" y1="149.475098%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#80B2F7" offset="0%"></stop>
+            <stop stop-color="#497BEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.3716983%" y1="-141.593424%" x2="33.3716983%" y2="273.494466%" id="linearGradient-5">
+            <stop stop-color="#5385EE" offset="0%"></stop>
+            <stop stop-color="#CDDDFF" offset="100%"></stop>
+            <stop stop-color="#CDDDFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="黄名单记录图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组">
+            <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="56" height="56"></rect>
+            <path d="M40.1925811,50.8841308 C38.9581332,51.6154808 37.5497115,52.0013716 36.1148825,52.0013716 L22,52.0013716 L22,39.448295 L37.5467742,39.448295 C36.9370968,36.9283432 38.4612903,35.7895429 42.1193548,36.0318941 C45.7774194,36.2742453 47.6064516,37.4130456 47.6064516,39.448295 L54.3854499,39.448295 C54.8799982,39.448295 55.3378554,39.7092157 55.5899328,40.1346978 C55.9840416,40.7999153 55.7642647,41.658669 55.0990472,42.0527779 L40.1925811,50.8841308 Z" id="路径-4" fill="url(#linearGradient-1)"></path>
+            <g id="分组-12" transform="translate(6.000000, 6.000000)">
+                <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="4.42307692" width="34.8387097" height="41.5769231"></rect>
+                <path d="M3.55086849,4.42307692 L31.2878412,4.42307692 C33.2489317,4.42307692 34.8387097,6.0128549 34.8387097,7.97394541 L34.8387097,28.5806452 C34.8387097,38.2010892 27.0397989,46 17.4193548,46 L3.55086849,46 C1.58977797,46 -1.09210331e-15,44.410222 -1.33226763e-15,42.4491315 L-4.4408921e-16,7.97394541 C-6.84253532e-16,6.0128549 1.58977797,4.42307692 3.55086849,4.42307692 Z" id="矩形" fill="url(#linearGradient-3)"></path>
+                <rect id="矩形" fill="#FFFFFF" x="5.22580645" y="13.2692308" width="24.3870968" height="3.53846154"></rect>
+                <rect id="矩形-copy-8" fill="#FFFFFF" x="5.22580645" y="22.1153846" width="24.3870968" height="3.53846154"></rect>
+                <rect id="矩形-copy-9" fill="#FFFFFF" x="5.22580645" y="30.9615385" width="17.4193548" height="3.53846154"></rect>
+                <path d="M13.0645161,2.65384615 L13.0645161,2.65384615 C13.0645161,1.18816739 14.2526835,3.8219545e-15 15.7183623,3.55271368e-15 L19.9913151,2.66453526e-15 C21.4569939,2.39529444e-15 22.6451613,1.18816739 22.6451613,2.65384615 L24.3368486,2.65384615 C25.8076665,2.65384615 27,3.84617963 27,5.31699752 L27,7.07692308 L8.70967742,7.07692308 L8.70967742,5.31699752 C8.70967742,3.84617963 9.9020109,2.65384615 11.3728288,2.65384615 L13.0645161,2.65384615 Z" id="路径" fill="url(#linearGradient-4)"></path>
+                <path d="M26.8462603,4.42307692 C26.9458013,4.70248734 27,5.00341303 27,5.31699752 L27,7.07692308 L8.70967742,7.07692308 L8.70967742,5.31699752 C8.70967742,5.00341303 8.76387614,4.70248734 8.86341711,4.42307692 L26.8462603,4.42307692 Z" id="合并形状" fill="url(#linearGradient-5)" opacity="0.27280971"></path>
+            </g>
+        </g>
+    </g>
+</svg>
